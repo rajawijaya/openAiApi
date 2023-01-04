@@ -1,0 +1,29 @@
+{
+  "name": "openaiapi",
+  "version": "1.0.0",
+  "description": "Test OpenAi API project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajawijaya/openAiApi.git"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt",
+    "gpt-3",
+    "codex",
+    "dall-e"
+  ],
+  "author": "Raja Wijaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajawijaya/openAiApi/issues"
+  },
+  "homepage": "https://github.com/rajawijaya/openAiApi#readme",
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
